@@ -1,5 +1,16 @@
 # Print The Prime Number 1 to 50 
 
+"""
+Prime Number Nothing But A Number Diviable By 1 and itself Only Is Called "Prime Number"
+
+Example : 
+
+19 is Diviable Only 1 and Itself only 
+
+28 is Divable By 1,2,4,7,28
+
+"""
+
 
 for i in range(1,51):
     if i > 1:
